@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋, I'm Nigel</h1>
-<h3 align="center">A Passionate Test Automation Engineer</h3>
+<h3 align="center">A Passionate QA - Test Automation Engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=youvegotnigel&label=Profile%20views&color=yellow&style=flat" alt="youvegotnigel" /> </p>
 
