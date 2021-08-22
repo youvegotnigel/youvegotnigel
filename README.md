@@ -13,11 +13,11 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/nigel-mulholland" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nigel-mulholland" height="30" width="40" /></a>
-<a href="https://medium.com/@youvegotnigel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@youvegotnigel" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/nigel-mulholland" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nigel-mulholland" height="40" width="40" /></a>
+<a href="https://medium.com/@youvegotnigel" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/medium/medium-tile.svg" alt="@youvegotnigel" height="40" width="40" /></a>
 <a href="https://twitter.com/youvegotnigel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="youvegotnigel" height="30" width="40" /></a>
-<a href="https://dev.to/youvegotnigel" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="youvegotnigel" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/youvegotnigel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="youvegotnigel" height="30" width="40" /></a>
+<a href="https://dev.to/youvegotnigel" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="youvegotnigel" height="40" width="40" /></a>
+<a href="https://stackoverflow.com/users/youvegotnigel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="youvegotnigel" height="40" width="40" /></a>
 </p>
 
 
@@ -32,23 +32,39 @@
 <h3 align="left">Languages:</h3>
 <p align="left"> 
 <a href="https://docs.oracle.com/en/java/" target="_blank"> <img src="https://raw.githubusercontent.com/detain/svg-logos/master/svg/java.svg" alt="java" width="40" height="40"/> </a> 
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" alt="javascript" width="40" height="40"/> </a> 
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/detain/svg-logos/master/svg/javascript.svg" alt="javascript" width="40" height="40"/> </a> 
 <a href="https://docs.python.org/3/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="40" height="40"/> </a> 
+</p>
+
+<h3 align="left">Test Reports:</h3>
+<p align="left"> 
+<a href="https://docs.qameta.io/allure/" target="_blank"> <img src="https://raw.githubusercontent.com/fescobar/allure-docker-service/master/resources/allure.png" alt="Allure Reports" width="40" height="40"/> </a> 
+<a href="https://github.com/damianszczepanik/cucumber-reporting" target="_blank"> <img src="https://www.vectorlogo.zone/logos/cucumberio/cucumberio-icon.svg" alt="Cucumber Reports" width="40" height="40"/> </a>
+</p>
+
+<h3 align="left">IDEs:</h3>
+<p align="left"> 
+<a href="" target="_blank"> <img src="https://raw.githubusercontent.com/detain/svg-logos/master/svg/intellij-idea-1.svg" alt="intelliJ Idea" width="40" height="40"/> </a>
+<a href="" target="_blank"> <img src="https://raw.githubusercontent.com/detain/svg-logos/master/svg/eclipse-11.svg" alt="eclipse" width="40" height="40"/> </a>
+<a href="" target="_blank"> <img src="https://raw.githubusercontent.com/detain/svg-logos/master/svg/visual-studio-code.svg" alt="visual studio code" width="40" height="40"/> </a>
 </p>
 
 <h3 align="left">Other Tools:</h3>
 <p align="left"> 
-<a href="" target="_blank"> <img src="" alt="" width="40" height="40"/> </a> 
-<a href="https://www.elastic.co" target="_blank"> <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="elasticsearch" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a> 
-<a href="https://grafana.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/></a> 
-<a href="https://www.jenkins.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://www.elastic.co/kibana" target="_blank"> <img src="https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-icon.svg" alt="kibana" width="40" height="40"/> </a> 
-<a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
-<a href="https://www.sqlite.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> 
+
+[comment]: <> (<a href="" target="_blank"> <img src="" alt="" width="40" height="40"/> </a> )
+<a href="" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
+<a href="" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/0e/Bitbucket-blue-logomark-only.svg" alt="bitbucket" width="40" height="40"/> </a>
+<a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>
+<a href="" target="_blank"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a>
+<a href="https://www.elastic.co/kibana" target="_blank"> <img src="https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-icon.svg" alt="kibana" width="40" height="40"/> </a> 
+<a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> 
+<a href="https://www.jenkins.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=youvegotnigel&show_icons=true&locale=en&layout=compact" alt="youvegotnigel" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=youvegotnigel&show_icons=true&locale=en&layout=compact" alt="youvegotnigel" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=youvegotnigel&show_icons=true&locale=en" alt="youvegotnigel" /></p>
+<p align="center">&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=youvegotnigel&show_icons=true&locale=en" alt="youvegotnigel" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=youvegotnigel&" alt="youvegotnigel" /></p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=youvegotnigel&" alt="youvegotnigel" /></p>
 
