@@ -33,6 +33,7 @@
 <p align="left"> 
 <a href="https://docs.oracle.com/en/java/" target="_blank"> <img src="https://raw.githubusercontent.com/detain/svg-logos/master/svg/java.svg" alt="java" width="40" height="40"/> </a> 
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/detain/svg-logos/master/svg/javascript.svg" alt="javascript" width="40" height="40"/> </a> 
+<a href="https://groovy-lang.org/documentation.html" target="_blank"> <img src="https://www.vectorlogo.zone/logos/groovy-lang/groovy-lang-icon.svg" alt="groovy" width="40" height="40"/> </a> 
 <a href="https://docs.python.org/3/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="40" height="40"/> </a> 
 </p>
 
