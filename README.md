@@ -1,5 +1,6 @@
-<h1 align="center">Hi there 👋, I'm Nigel</h1>
-<h3 align="center">A Passionate QA - Test Automation Engineer</h3>
+<article class="markdown-body entry-content container-lg f5" itemprop="text"><p align="center" dir="auto"><a target="_blank" rel="noopener noreferrer" href="https://github.com/alansmathew/alansmathew/raw/master/lang.gif"><img width="30%" src="https://github.com/alansmathew/alansmathew/raw/master/lang.gif" alt="lang image here" data-animated-image="" style="max-width: 100%;"></a></p>
+<p align="center" dir="auto">I'm nigel, a passionate QA Test Automation Engineer.</p>
+<p align="center" dir="auto">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=youvegotnigel&label=Profile%20views&color=yellow&style=flat" alt="youvegotnigel" /> </p>
 
