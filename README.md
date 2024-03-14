@@ -1,87 +1,73 @@
-<article class="markdown-body entry-content container-lg f5" itemprop="text">
-    <p align="center">
-        <a target="_blank" rel="noopener noreferrer" href="https://github.com/alansmathew/alansmathew/raw/master/lang.gif">
-            <img width="50%" src="https://github.com/alansmathew/alansmathew/raw/master/lang.gif" alt="lang image here" style="max-width: 100%;">
-        </a>
+<article class="markdown-body entry-content container-lg f5" itemprop="text"><p align="center" dir="auto"><a target="_blank" rel="noopener noreferrer" href="https://github.com/alansmathew/alansmathew/raw/master/lang.gif"><img width="30%" src="https://github.com/alansmathew/alansmathew/raw/master/lang.gif" alt="lang image here" data-animated-image="" style="max-width: 100%;"></a></p>
+    <p align="center" dir="auto">I'm nigel, a passionate QA Test Automation Engineer.</p>
+    <p align="center" dir="auto">
+    
+    <p align="left"> <img src="https://komarev.com/ghpvc/?username=youvegotnigel&label=Profile%20views&color=yellow&style=flat" alt="youvegotnigel" /> </p>
+    
+    <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=youvegotnigel" alt="youvegotnigel" /></a> </p>
+    
+    <p align="left"> <a href="https://twitter.com/youvegotnigel" target="blank"><img src="https://img.shields.io/twitter/follow/youvegotnigel?logo=twitter&style=for-the-badge" alt="youvegotnigel" /></a> </p>
+    
+    - 📝 I regularly write articles on [https://medium.com/@youvegotnigel](https://medium.com/@youvegotnigel)
+    
+    - ⚡ Fun fact **I am a huge fan of Chelsea FC**
+    
+    <h3 align="left">Connect with me:</h3>
+    <p align="left">
+    <a href="https://linkedin.com/in/nigel-mulholland" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nigel-mulholland" height="40" width="40" /></a>
+    <a href="https://medium.com/@youvegotnigel" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/medium/medium-tile.svg" alt="@youvegotnigel" height="40" width="40" /></a>
+    <a href="https://twitter.com/youvegotnigel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="youvegotnigel" height="30" width="40" /></a>
+    <a href="https://dev.to/youvegotnigel" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="youvegotnigel" height="40" width="40" /></a>
+    <a href="https://stackoverflow.com/users/youvegotnigel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="youvegotnigel" height="40" width="40" /></a>
     </p>
     
-    <p align="center">Hi there! I'm Nigel, a passionate QA Test Automation Engineer.</p>
     
-    <p align="center">
-        <img src="https://komarev.com/ghpvc/?username=youvegotnigel&label=Profile%20views&color=blueviolet&style=flat-square" alt="Profile views">
-    </p>
-    
-    <p align="center">
-        <a href="https://twitter.com/youvegotnigel" target="_blank">
-            <img src="https://img.shields.io/twitter/follow/youvegotnigel?style=social" alt="Twitter Follow">
-        </a>
+    <h3 align="left">Test Frameworks:</h3>
+    <p align="left"> 
+    <a href="https://www.selenium.dev" target="_blank"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> 
+    <a href="https://docs.katalon.com/katalon-studio/docs/index.html" target="_blank"> <img src="https://raw.githubusercontent.com/katalon-studio/katalon-recorder/e4fde352c4718904a17757ef6dc9fbf70181e90b/katalon/images/SVG/katalon-logo-vector.svg" alt="katalon" width="40" height="40"/> </a>
+    <a href="https://appium.io/" target="_blank"> <img src="https://raw.githubusercontent.com/detain/svg-logos/master/svg/appium.svg" alt="appium" width="40" height="40"/> </a>
+    <a href="https://www.cypress.io" target="_blank"> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="cypress" width="40" height="40"/> </a>
     </p>
     
-    <h3 align="center">Connect with me:</h3>
-    <p align="center">
-        <a href="https://linkedin.com/in/nigel-mulholland" target="_blank">
-            <img src="https://img.shields.io/badge/LinkedIn--blue?style=social&logo=linkedin" alt="LinkedIn">
-        </a>
-        <a href="https://twitter.com/youvegotnigel" target="_blank">
-            <img src="https://img.shields.io/twitter/follow/youvegotnigel?label=Follow&style=social&logo=twitter" alt="Twitter Follow">
-        </a>
-        <a href="https://github.com/youvegotnigel" target="_blank">
-            <img src="https://img.shields.io/github/followers/youvegotnigel?label=Follow&style=social" alt="GitHub Follow">
-        </a>
-        <a href="https://medium.com/@youvegotnigel" target="_blank">
-            <img src="https://img.shields.io/badge/Medium--blue?style=social&logo=medium" alt="Medium">
-        </a>
+    <h3 align="left">Languages:</h3>
+    <p align="left"> 
+    <a href="https://docs.oracle.com/en/java/" target="_blank"> <img src="https://raw.githubusercontent.com/detain/svg-logos/master/svg/java.svg" alt="java" width="40" height="40"/> </a> 
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/detain/svg-logos/master/svg/javascript.svg" alt="javascript" width="40" height="40"/> </a> 
+    <a href="https://groovy-lang.org/documentation.html" target="_blank"> <img src="https://www.vectorlogo.zone/logos/groovy-lang/groovy-lang-icon.svg" alt="groovy" width="40" height="40"/> </a> 
+    <a href="https://docs.python.org/3/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="40" height="40"/> </a> 
     </p>
-
-    <h3 align="center">Test Frameworks:</h3>
-    <p align="center">
-        <img src="https://img.shields.io/badge/Selenium--blue?style=flat-square&logo=selenium" alt="Selenium">
-        <img src="https://img.shields.io/badge/Katalon--blue?style=flat-square&logo=katalon-studio" alt="Katalon">
-        <img src="https://img.shields.io/badge/Appium--blue?style=flat-square&logo=appium" alt="Appium">
-        <img src="https://img.shields.io/badge/Cypress--blue?style=flat-square&logo=cypress" alt="Cypress">
+    
+    <h3 align="left">Test Reports:</h3>
+    <p align="left"> 
+    <a href="https://docs.qameta.io/allure/" target="_blank"> <img src="https://raw.githubusercontent.com/fescobar/allure-docker-service/master/resources/allure.png" alt="Allure Reports" width="40" height="40"/> </a> 
+    <a href="https://github.com/damianszczepanik/cucumber-reporting" target="_blank"> <img src="https://www.vectorlogo.zone/logos/cucumberio/cucumberio-icon.svg" alt="Cucumber Reports" width="40" height="40"/> </a>
     </p>
-
-    <h3 align="center">Languages:</h3>
-    <p align="center">
-        <img src="https://img.shields.io/badge/Java--blue?style=flat-square&logo=java" alt="Java">
-        <img src="https://img.shields.io/badge/JavaScript--blue?style=flat-square&logo=javascript" alt="JavaScript">
-        <img src="https://img.shields.io/badge/Groovy--blue?style=flat-square&logo=apache-groovy" alt="Groovy">
-        <img src="https://img.shields.io/badge/Python--blue?style=flat-square&logo=python" alt="Python">
+    
+    <h3 align="left">IDEs:</h3>
+    <p align="left"> 
+    <a href="" target="_blank"> <img src="https://raw.githubusercontent.com/detain/svg-logos/master/svg/intellij-idea-1.svg" alt="intelliJ Idea" width="40" height="40"/> </a>
+    <a href="" target="_blank"> <img src="https://raw.githubusercontent.com/detain/svg-logos/master/svg/eclipse-11.svg" alt="eclipse" width="40" height="40"/> </a>
+    <a href="" target="_blank"> <img src="https://raw.githubusercontent.com/detain/svg-logos/master/svg/visual-studio-code.svg" alt="visual studio code" width="40" height="40"/> </a>
     </p>
-
-    <h3 align="center">Test Reports:</h3>
-    <p align="center">
-        <img src="https://img.shields.io/badge/Allure%20Reports--blue?style=flat-square&logo=allure" alt="Allure Reports">
-        <img src="https://img.shields.io/badge/Cucumber%20Reports--blue?style=flat-square&logo=cucumber" alt="Cucumber Reports">
+    
+    <h3 align="left">Other Tools:</h3>
+    <p align="left"> 
+    
+    [comment]: <> (<a href="" target="_blank"> <img src="" alt="" width="40" height="40"/> </a> )
+    <a href="" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
+    <a href="" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/0e/Bitbucket-blue-logomark-only.svg" alt="bitbucket" width="40" height="40"/> </a>
+    <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>
+    <a href="" target="_blank"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a>
+    <a href="https://www.elastic.co/kibana" target="_blank"> <img src="https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-icon.svg" alt="kibana" width="40" height="40"/> </a> 
+    <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> 
+    <a href="https://www.jenkins.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a>
     </p>
-
-    <h3 align="center">IDEs:</h3>
-    <p align="center">
-        <img src="https://img.shields.io/badge/IntelliJ%20IDEA--blue?style=flat-square&logo=intellij-idea" alt="IntelliJ IDEA">
-        <img src="https://img.shields.io/badge/Eclipse--blue?style=flat-square&logo=eclipse" alt="Eclipse">
-        <img src="https://img.shields.io/badge/Visual%20Studio%20Code--blue?style=flat-square&logo=visual-studio-code" alt="Visual Studio Code">
-    </p>
-
-    <h3 align="center">Other Tools:</h3>
-    <p align="center">
-        <img src="https://img.shields.io/badge/Postman--blue?style=flat-square&logo=postman" alt="Postman">
-        <img src="https://img.shields.io/badge/Bitbucket--blue?style=flat-square&logo=bitbucket" alt="Bitbucket">
-        <img src="https://img.shields.io/badge/Git--blue?style=flat-square&logo=git" alt="Git">
-        <img src="https://img.shields.io/badge/Grafana--blue?style=flat-square&logo=grafana" alt="Grafana">
-        <img src="https://img.shields.io/badge/Kibana--blue?style=flat-square&logo=kibana" alt="Kibana">
-        <img src="https://img.shields.io/badge/MongoDB--blue?style=flat-square&logo=mongodb" alt="MongoDB">
-        <img src="https://img.shields.io/badge/Jenkins--blue?style=flat-square&logo=jenkins" alt="Jenkins">
-    </p>
-
-    <p align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=youvegotnigel&layout=compact&theme=dark" alt="Top Langs">
-    </p>
-
-    <p align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=youvegotnigel&show_icons=true&theme=dark" alt="GitHub Stats">
-    </p>
-
-    <p align="center">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=youvegotnigel&theme=dark" alt="GitHub Streak">
-    </p>
-</article>
+    
+    <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=youvegotnigel&show_icons=true&locale=en&layout=compact" alt="youvegotnigel" /></p>
+    
+    <p align="center">&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=youvegotnigel&show_icons=true&locale=en" alt="youvegotnigel" /></p>
+    
+    <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=youvegotnigel&" alt="youvegotnigel" /></p>
+    
+    
