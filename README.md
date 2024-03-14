@@ -36,6 +36,7 @@
     <img src="https://img.shields.io/badge/Katalon--blue?style=flat-square&logo=katalon-studio" alt="Katalon">
     <img src="https://img.shields.io/badge/Appium--blue?style=flat-square&logo=appium" alt="Appium">
     <img src="https://img.shields.io/badge/Cypress--blue?style=flat-square&logo=cypress" alt="Cypress">
+    <img src="https://img.shields.io/badge/Playwright--blue?style=flat-square&logo=playwright" alt="Playwright">
 </p>
 
 <h3 align="center">Languages:</h3>
@@ -68,6 +69,7 @@
     <img src="https://img.shields.io/badge/Kibana--blue?style=flat-square&logo=kibana" alt="Kibana">
     <img src="https://img.shields.io/badge/MongoDB--blue?style=flat-square&logo=mongodb" alt="MongoDB">
     <img src="https://img.shields.io/badge/Jenkins--blue?style=flat-square&logo=jenkins" alt="Jenkins">
+    <img src="https://img.shields.io/badge/Docker--blue?style=flat-square&logo=docker" alt="Docker">
 </p>
 
 <p align="center">
