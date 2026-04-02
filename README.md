@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Nigel</h1>
-<h3 align="center">Senior QA Test Automation Engineer focused on building scalable and maintainable automation</h3>
+<h3 align="center">Lead QA Test Automation Engineer focused on building scalable and maintainable automation</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=youvegotnigel&label=Profile%20views&color=0e75b6&style=flat" alt="views"/>
