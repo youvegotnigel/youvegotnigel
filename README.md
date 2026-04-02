@@ -1,85 +1,62 @@
-<p align="center">
-    <img src="https://github.com/alansmathew/alansmathew/raw/master/lang.gif" alt="lang image here" width="50%">
-</p>
-
-<p align="center">Hi there! I'm Nigel, a passionate QA Test Automation Engineer.</p>
+<h1 align="center">Hi, I'm Nigel</h1>
+<h3 align="center">Senior QA Test Automation Engineer focused on building scalable and maintainable automation</h3>
 
 <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=youvegotnigel&label=Profile%20views&color=blueviolet&style=flat-square" alt="Profile views">
+  <img src="https://komarev.com/ghpvc/?username=youvegotnigel&label=Profile%20views&color=0e75b6&style=flat" alt="views"/>
 </p>
 
 <p align="center">
-    <a href="https://twitter.com/youvegotnigel" target="_blank">
-        <img src="https://img.shields.io/twitter/follow/youvegotnigel?style=social" alt="Twitter Follow">
-    </a>
-</p>
-
-<h3 align="center">Connect with me:</h3>
-<p align="center">
-    <a href="https://linkedin.com/in/nigel-mulholland" target="_blank">
-        <img src="https://img.shields.io/badge/LinkedIn--blue?style=social&logo=linkedin" alt="LinkedIn">
-    </a>
-    <a href="https://twitter.com/youvegotnigel" target="_blank">
-        <img src="https://img.shields.io/twitter/follow/youvegotnigel?label=Follow&style=social&logo=twitter" alt="Twitter Follow">
-    </a>
-    <a href="https://github.com/youvegotnigel" target="_blank">
-        <img src="https://img.shields.io/github/followers/youvegotnigel?label=Follow&style=social" alt="GitHub Follow">
-    </a>
-    <a href="https://medium.com/@youvegotnigel" target="_blank">
-        <img src="https://img.shields.io/badge/Medium--blue?style=social&logo=medium" alt="Medium">
-    </a>
-</p>
-
-<h3 align="center">Test Frameworks:</h3>
-<p align="center">
-    <img src="https://img.shields.io/badge/Selenium--blue?style=flat-square&logo=selenium" alt="Selenium">
-    <img src="https://img.shields.io/badge/Katalon--blue?style=flat-square&logo=katalon-studio" alt="Katalon">
-    <img src="https://img.shields.io/badge/Appium--blue?style=flat-square&logo=appium" alt="Appium">
-    <img src="https://img.shields.io/badge/Cypress--blue?style=flat-square&logo=cypress" alt="Cypress">
-    <img src="https://img.shields.io/badge/Playwright--blue?style=flat-square&logo=playwright" alt="Playwright">
-</p>
-
-<h3 align="center">Languages:</h3>
-<p align="center">
-    <img src="https://img.shields.io/badge/Java--blue?style=flat-square&logo=java" alt="Java">
-    <img src="https://img.shields.io/badge/JavaScript--blue?style=flat-square&logo=javascript" alt="JavaScript">
-    <img src="https://img.shields.io/badge/Groovy--blue?style=flat-square&logo=apache-groovy" alt="Groovy">
-    <img src="https://img.shields.io/badge/Python--blue?style=flat-square&logo=python" alt="Python">
-</p>
-
-<h3 align="center">Test Reports:</h3>
-<p align="center">
-    <img src="https://img.shields.io/badge/Allure%20Reports--blue?style=flat-square&logo=allure" alt="Allure Reports">
-    <img src="https://img.shields.io/badge/Cucumber%20Reports--blue?style=flat-square&logo=cucumber" alt="Cucumber Reports">
-</p>
-
-<h3 align="center">IDEs:</h3>
-<p align="center">
-    <img src="https://img.shields.io/badge/IntelliJ%20IDEA--blue?style=flat-square&logo=intellij-idea" alt="IntelliJ IDEA">
-    <img src="https://img.shields.io/badge/Eclipse--blue?style=flat-square&logo=eclipse" alt="Eclipse">
-    <img src="https://img.shields.io/badge/Visual%20Studio%20Code--blue?style=flat-square&logo=visual-studio-code" alt="Visual Studio Code">
-</p>
-
-<h3 align="center">Other Tools:</h3>
-<p align="center">
-    <img src="https://img.shields.io/badge/Postman--blue?style=flat-square&logo=postman" alt="Postman">
-    <img src="https://img.shields.io/badge/Bitbucket--blue?style=flat-square&logo=bitbucket" alt="Bitbucket">
-    <img src="https://img.shields.io/badge/Git--blue?style=flat-square&logo=git" alt="Git">
-    <img src="https://img.shields.io/badge/Grafana--blue?style=flat-square&logo=grafana" alt="Grafana">
-    <img src="https://img.shields.io/badge/Kibana--blue?style=flat-square&logo=kibana" alt="Kibana">
-    <img src="https://img.shields.io/badge/MongoDB--blue?style=flat-square&logo=mongodb" alt="MongoDB">
-    <img src="https://img.shields.io/badge/Jenkins--blue?style=flat-square&logo=jenkins" alt="Jenkins">
-    <img src="https://img.shields.io/badge/Docker--blue?style=flat-square&logo=docker" alt="Docker">
+  I work on designing and building automation frameworks using Playwright, Selenium, and Cypress, with a strong focus on clean architecture, reusability, and long-term maintainability. Over the years, I’ve been involved in improving flaky test suites, stabilizing CI pipelines, and integrating automation into delivery workflows. My work leans more toward practical quality engineering than just writing tests.
 </p>
 
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=youvegotnigel&layout=compact&theme=dark" alt="Top Langs">
+  With 7+ years in QA and automation, I’ve contributed to building frameworks from scratch, optimizing execution pipelines, and mentoring engineers to adopt better testing practices. I’m particularly interested in test strategy, CI/CD, and creating systems where defects are harder to introduce rather than easier to detect.
 </p>
 
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=youvegotnigel&show_icons=true&theme=dark" alt="GitHub Stats">
+  Current focus areas include Playwright with TypeScript, API testing with Rest Assured and Postman, and improving CI/CD pipelines for faster and more reliable feedback cycles.
 </p>
 
 <p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=youvegotnigel&theme=dark" alt="GitHub Streak">
+  <!-- Core automation tools -->
+<p align="center">
+  <!-- Playwright (normalized) -->
+  <span style="display:inline-flex; align-items:center; justify-content:center; width:48px; height:48px; background:#1e293b; border-radius:12px; margin-right:6px;">
+  <img src="https://user-images.githubusercontent.com/90125292/234155932-6b387fce-6fe3-489a-a7d2-6b687523b229.svg"
+       width="48"
+       height="48"
+       style="position: relative; top: -1px;"
+       alt="Playwright"/>
+</span>
+  <img src="https://skillicons.dev/icons?i=selenium,cypress" />
+
+  <!-- Languages -->
+  <img src="https://skillicons.dev/icons?i=java,js,python" />
+
+  <!-- DevOps / Tools -->
+  <img src="https://skillicons.dev/icons?i=git,docker,jenkins,github,postman,mongodb" />
+</p>
+
+<p align="center">
+  I regularly work with reporting tools such as Allure and Cucumber Reports, and focus on making test results actionable through CI, reporting and notifications.
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=youvegotnigel&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <a href="https://linkedin.com/in/nigel-mulholland">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+  <a href="https://twitter.com/youvegotnigel">
+    <img src="https://skillicons.dev/icons?i=twitter" />
+  </a>
+  <a href="https://medium.com/@youvegotnigel">
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/medium.svg" width="50" />
+  </a>
+</p>
+
+<p align="center">
+  Quality is not just about testing. It is about building systems that make defects difficult to exist.
 </p>
