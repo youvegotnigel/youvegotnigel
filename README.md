@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  I work on designing and building automation frameworks using Playwright, Selenium, and Cypress, with a strong focus on clean architecture, reusability, and long-term maintainability. Over the years, I’ve been involved in improving flaky test suites, stabilizing CI pipelines, and integrating automation into delivery workflows. My work leans more toward practical quality engineering than just writing tests.
+  I work on designing and building automation frameworks using Playwright, Selenium, and Cypress, with a strong focus on clean architecture, reusability, and long term maintainability. Over the years, I’ve been involved in improving flaky test suites, stabilizing CI pipelines, and integrating automation into delivery workflows. My work leans more toward practical quality engineering than just writing tests.
 </p>
 
 <p align="center">
