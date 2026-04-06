@@ -46,6 +46,18 @@
 </p>
 
 <p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=youvegotnigel&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=youvegotnigel&theme=tokyonight" />
+
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=youvegotnigel&theme=tokyonight" />
+</p>
+
+
+
+<p align="center">
   <a href="https://linkedin.com/in/nigel-mulholland">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
