@@ -34,7 +34,7 @@
   <img src="https://skillicons.dev/icons?i=java,js,python" />
 
   <!-- DevOps / Tools -->
-  <img src="https://skillicons.dev/icons?i=git,docker,jenkins,github,postman,mongodb" />
+  <img src="https://skillicons.dev/icons?i=gherkin,git,docker,jenkins,github,postman,mongodb" />
 </p>
 
 <p align="center">
